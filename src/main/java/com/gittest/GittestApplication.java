@@ -10,6 +10,7 @@ public class GittestApplication {
  
         boolean = true; 
 	int x = 100;
+		string="praveen";
  
 	SpringApplication.run(GittestApplication.class, args);
 
