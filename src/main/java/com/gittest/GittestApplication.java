@@ -8,11 +8,11 @@ public class GittestApplication {
 
 	public static void main(String[] args) {
  
-        boolean = true; 
-	int x = 100;
-		string="praveen";
-		char='a';
- 
+    boolean = true; 
+	  int x = 100;
+		string = "praveen";
+ 		int a = 1;
+		char = 'a';
 	SpringApplication.run(GittestApplication.class, args);
 
 	}
