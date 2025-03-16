@@ -11,6 +11,7 @@ public class GittestApplication {
         boolean = true; 
 	int x = 100;
 		string="praveen";
+		int a = 1;
  
 	SpringApplication.run(GittestApplication.class, args);
 
