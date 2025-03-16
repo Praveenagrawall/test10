@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class GittestApplication {
 
 	public static void main(String[] args) {
+boolean = true;
 		SpringApplication.run(GittestApplication.class, args);
 	}
 
